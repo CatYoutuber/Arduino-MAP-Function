@@ -3,6 +3,5 @@ Arduino MAP Function Portayred To Another Programming Languages.
 
 ################################################################
 
-#################### --Source:-- ####################
+Source: 
 https://www.arduino.cc/reference/en/language/functions/math/map/
-#####################################################
